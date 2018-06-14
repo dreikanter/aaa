@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import styles from './style'
 
-const Hello = props => (
+const Hello = () => (
   <div className={styles.Sample}>Hello!</div>
 )
 
